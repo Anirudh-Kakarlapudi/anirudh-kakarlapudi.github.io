@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Artificial Intelligence, University of Georgia, Athens, GA (Aug 2018-Dec 2020).
+* B.E in Electronics and Communication Engineering, Andhra University,India (Sept 2013-May 2017).
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Research Assistant (Sept 2019-Present)
+  * [THINC LAB](http://thinc.cs.uga.edu/), UGA
+  * Duties included:
+    * Developed a simple Heuristic Coordination approach among agents as a baseline.
+    * Developed a Nested I-POMDP MCTS approach to perform the planning of agents completely online.
+    * Developed and implemented a network architechture to spread the planning process across different processors to cut the planning time.
+    * Implemented Communicative IPOMDPs for open multi-agent systems with constrained communication
+  * Supervisor: [Dr. Prashant Doshi](https://cs.uga.edu/directory/people/prashant-doshi)
+  * Team: [Dr. Leenkiat Soh](https://cse.unl.edu/leen-kiat-soh) and [Dr. Adam Eck](http://www.cs.oberlin.edu/~aeck/index.html)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Student Assistant (Mar 2019 - Aug 2019)
+  * ITOS, Carl Vinson Institute of Government, UGA.
+  * Duties included: 
+    * Implemented various transformations and visualization using Qlik Sense to provide data insights.
+    * Worked on the Geogia Department of Transportation data to create some crash statistic visualizations. 
+    * Worked on the UGA Agriculture data to create visualizations for different crops produced per season or county.  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming:
+  * Python, Cython, Spark, QlikSense, Matlab, Weka, SQL, LaTeX
+
+* Machine Learning Frameworks:
+  * Scikit-Learn, Keras, H2O, TensorFlow, Weka, NLTK
+
+* Platforms
+  * GCP, Linux, Anaconda
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* [Design and Implementation of 32-Bit Adders Using Various Full Adders](https://ieeexplore.ieee.org/document/8245176)
+  * IEEE Explore, Jan 2018, IUPAC, VIT, Chennai, India.
+
+Certifications
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* [Learning Data Visualization Certification]()
+  * LinkedIn Leaning, March 2019
+
+Honors and Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* MHRD Indian Government Scholarship for Excellence in IP Exam for 2013 - 2017
