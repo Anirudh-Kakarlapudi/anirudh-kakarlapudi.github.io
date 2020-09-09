@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Artificial Intelligence, University of Georgia, Athens, GA (Aug 2018-Dec 2020).
-* B.E in Electronics and Communication Engineering, Andhra University,India (Sept 2013-May 2017).
+* B.E in Electronics and Communication Engineering, Andhra University, India (Sept 2013-May 2017).
 
 Work experience
 ======
@@ -20,8 +20,8 @@ Work experience
   * [THINC LAB](http://thinc.cs.uga.edu/), UGA
   * Duties included:
     * Developed a simple Heuristic Coordination approach among agents as a baseline.
-    * Developed a Nested I-POMDP MCTS approach to perform the planning of agents completely online.
-    * Developed and implemented a network architechture to spread the planning process across different processors to cut the planning time.
+    * Developed a Nested I-POMDP MCTS approach to perform the planning of agents entirely online.
+    * Developed and implemented a network architecture to spread the planning process across different processors to cut the planning time.
     * Implemented Communicative IPOMDPs for open multi-agent systems with constrained communication
   * Supervisor: [Dr. Prashant Doshi](https://cs.uga.edu/directory/people/prashant-doshi)
   * Team: [Dr. Leenkiat Soh](https://cse.unl.edu/leen-kiat-soh) and [Dr. Adam Eck](http://www.cs.oberlin.edu/~aeck/index.html)
@@ -30,8 +30,8 @@ Work experience
   * ITOS, Carl Vinson Institute of Government, UGA.
   * Duties included: 
     * Implemented various transformations and visualization using Qlik Sense to provide data insights.
-    * Worked on the Geogia Department of Transportation data to create some crash statistic visualizations. 
-    * Worked on the UGA Agriculture data to create visualizations for different crops produced per season or county.  
+    * Worked on the Georgia Department of Transportation data to create some crash statistic visualizations. 
+    * Worked on the UGA Agriculture data to create visualizations for different crops produced per season or county.
   
 Skills
 ======
